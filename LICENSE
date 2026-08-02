@@ -7,63 +7,54 @@ Atribuição-NãoComercial 4.0 Internacional (CC BY-NC 4.0).
 Identificador SPDX: CC-BY-NC-4.0
 Texto legal completo: https://creativecommons.org/licenses/by-nc/4.0/legalcode.pt
 Resumo oficial:       https://creativecommons.org/licenses/by-nc/4.0/deed.pt
-
 --------------------------------------------------------------------------------
-RESUMO DOS TERMOS (não substitui o texto legal acima)
---------------------------------------------------------------------------------
-
-VOCÊ PODE:
-
-  Compartilhar — copiar e redistribuir este material em qualquer suporte ou
-  formato.
-
-  Adaptar — remixar, transformar e criar a partir deste material.
-
-  O licenciante não pode revogar estes direitos desde que você respeite os
-  termos abaixo.
-
-SOB AS SEGUINTES CONDIÇÕES:
-
-  Atribuição — você deve dar o crédito apropriado a João Pedro de Morais
-  Figueiredo, citar o repositório, fornecer um link para a licença e indicar se mudanças foram
-  feitas. Você pode fazê-lo de qualquer forma razoável, mas não de maneira que
-  sugira que o licenciante apoia você ou o seu uso.
-
-  NãoComercial — você não pode usar o material para fins comerciais. Isso
-  inclui, entre outros: venda das apresentações geradas ou da própria
-  ferramenta, uso em cursos pagos de terceiros sem autorização, e incorporação
-  em produto ou serviço comercializado.
-
-  Sem restrições adicionais — você não pode aplicar termos jurídicos ou medidas
-  de caráter tecnológico que restrinjam legalmente outros de fazer algo que a
-  licença permita.
-
---------------------------------------------------------------------------------
-NOTA DO AUTOR
+RESUMO DOS TERMOS (não substitui o texto legal acima) E CONDIÇÕES DE USO
 --------------------------------------------------------------------------------
 
-O uso educacional é expressamente incentivado: professores podem gerar, adaptar
-e distribuir aulas com esta ferramenta livremente, inclusive em instituições de
-ensino, desde que preservada a atribuição.
+- Atribuição — Você deve creditar João Pedro de Morais Figueiredo, informar o repositório do projeto, fornecer um link para a licença CC BY-NC 4.0 e indicar se realizou modificações.
 
-É vedada a apropriação de autoria. Em trabalhos acadêmicos (monografias,
-dissertações, teses, artigos), a ferramenta deve ser citada, não apresentada
-como criação própria. Uso comercial requer autorização prévia por escrito do
-autor.
+- Não Comercial — É proibido utilizar este projeto, seus templates ou materiais derivados para qualquer finalidade comercial sem autorização prévia e expressa do autor. Isso inclui, entre outros, vender apresentações, cursos, templates, versões modificadas ou incorporar o projeto em produtos ou serviços pagos.
 
-As apresentações produzidas com a ferramenta pertencem a quem as produziu; esta
-licença recai sobre a ferramenta e o template, não sobre o conteúdo pedagógico
-que você escrever com eles.
+- Preservação dos créditos — O último slide das apresentações, que contém a identificação do projeto e a menção ao repositório oficial, faz parte da atribuição exigida por esta licença. Ele deve permanecer íntegro, visível e inalterado, não podendo ser removido, editado, ocultado ou substituído.
 
+ - Sem restrições adicionais — Você não pode aplicar medidas legais ou tecnológicas que impeçam terceiros de exercer os direitos concedidos por esta licença.
 --------------------------------------------------------------------------------
-ISENÇÃO DE GARANTIAS
+CONTEÚDO CRIADO PELO USUÁRIO
 --------------------------------------------------------------------------------
+Os textos, imagens, atividades e demais conteúdos originais criados pelo usuário pertencem aos seus respectivos autores.
 
-Salvo se indicado de outra forma por escrito, o licenciante oferece o material
-no estado em que se encontra, sem declarações ou garantias de qualquer espécie,
-expressas ou implícitas, incluindo, entre outras, garantias de titularidade,
-comercialização, adequação a uma finalidade específica ou ausência de violação
-de direitos.
+Esta licença aplica-se exclusivamente à ferramenta, ao código, aos templates, ao design, aos componentes visuais e aos demais elementos fornecidos por este projeto.
 
-Na máxima extensão permitida por lei, o licenciante não será responsável por
-quaisquer danos decorrentes do uso deste material.
+Assim, o usuário continua sendo proprietário do conteúdo que criou, mas as apresentações que utilizarem elementos deste projeto permanecem sujeitas às condições desta licença, inclusive à proibição de uso comercial e à obrigatoriedade de manter o slide de atribuição.
+--------------------------------------------------------------------------------
+USO EDUCACIONAL
+--------------------------------------------------------------------------------
+O uso educacional e não comercial é expressamente permitido.
+
+Professores, estudantes e instituições de ensino podem utilizar, adaptar e distribuir apresentações geradas com esta ferramenta, desde que:
+
+- seja mantida a atribuição ao autor;
+- o último slide permaneça com os créditos no rodapé, permanecendo inalterado;
+- o uso não tenha finalidade comercial.
+
+Cursos pagos, treinamentos remunerados, consultorias e qualquer outra exploração comercial exigem autorização prévia e expressa do autor.
+--------------------------------------------------------------------------------
+MODIFICAÇÕES
+--------------------------------------------------------------------------------
+Você pode modificar este projeto para fins não comerciais.
+
+Ao redistribuir versões modificadas, deverá:
+
+- manter os créditos ao autor original;
+- indicar que realizou modificações;
+- manter o crédito do último slide no rodapé sem alterações;
+- não utilizar a versão modificada para fins comerciais sem autorização.
+--------------------------------------------------------------------------------
+DISPOSIÇÃO FINAL
+--------------------------------------------------------------------------------
+Ao utilizar este projeto, você reconhece que:
+
+- o conteúdo criado por você continua sendo de sua autoria;
+- o código, os templates e o design continuam pertencendo ao autor do projeto;
+- apresentações que utilizem estes elementos não podem ser exploradas comercialmente sem autorização;
+- o último slide contendo os créditos no rodapé e o repositório oficial é obrigatório e não pode ser removido ou alterado.
